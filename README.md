@@ -1,2 +1,1 @@
-# sample-1
-sample1
+hi  welcome to git operations
